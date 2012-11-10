@@ -74,14 +74,14 @@ alteram o seu estado e seu contexto.
 # Funcional:
    
 *Processamento* de *entradas* e retorno de *saídas*.
-
-                 /////----       
-       |\,      //////-----         |:\  
-   ----'  \    +++++++------    ===='::\ 
-   ----, ,/     ++++++/////     ====,::/ 
-       |/        +++++////          |:/    
-   
-
+      
+                       /////----       
+             |\,      //////-----         |:\  
+         ----'  \    +++++++------    ===='::\ 
+         ----, ,/     ++++++/////     ====,::/ 
+             |/        +++++////          |:/    
+         
+      
 
 
 
@@ -116,14 +116,14 @@ mesma forma que strings e números.
 *Funções de alta ordem*, é o termo usado para
 para funções que retornam outras funções.
 
-
-              **********     /////----       %%%%%%%      
-       |\,    ##########    //////-----    %%%%&&&%%%%       |:\  
-   ----'  \   **********   +++++++------   %%%&&&&&%%%   ===='::\ 
-   ----, ,/   ##########    ++++++/////    %%%%&&&%%%%   ====,::/ 
-       |/     **********     +++++////       %%%%%%%         |:/    
-
-
+      
+                    **********     /////----       %%%%%%%      
+             |\,    ##########    //////-----    %%%%&&&%%%%       |:\  
+         ----'  \   **********   +++++++------   %%%&&&&&%%%   ===='::\ 
+         ----, ,/   ##########    ++++++/////    %%%%&&&%%%%   ====,::/ 
+             |/     **********     +++++////       %%%%%%%         |:/    
+      
+      
 
 
 # Exemplo:
@@ -249,10 +249,12 @@ NODE.JS
 ENTREM EM CONTATO
 =================
 
-Rafael Bandeira
-@rafb3
-rafaelbandeira3@gmail.com
-http://github.com/rafaelbandeira3
+* Rafael Bandeira
+* @rafb3
+* rafaelbandeira3@gmail.com
+* http://github.com/rafaelbandeira3
+* http://anythingsoftware.posterous.com
+
 
 
 
