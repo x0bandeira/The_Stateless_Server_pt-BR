@@ -96,7 +96,7 @@ Balanço é a soma do custo da venda e
 as taxas contratuais, menos o que já
 está pago.
 
-:e account.rb account_stateless.rb
+:e [account.rb](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/account.rb) [account_stateless.rb](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/account_stateless.rb)
 
 
 
@@ -131,7 +131,7 @@ para funções que retornam outras funções.
 Preço de passagens de avião para
 diferentes tipos de clientes.
 
-:e ticket_price.js
+:e [ticket_price.js](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/ticket_price.js)
 
 
 
@@ -164,7 +164,7 @@ Calcular capacidade disponível para demandas
 de gás em tubulações que transportam gás por
 vários estados.
 
-:e scheduling_gas.cs
+:e [scheduling_gas.cs](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/scheduling_gas.cs)
 
 
 
@@ -198,7 +198,7 @@ pelo compilador.
 
 API de json com suporte a diferentes ambientes.
 
-:e restful_server.coffee
+:e [restful_server.coffee](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/restful_server.coffee)
 
 
 
