@@ -236,6 +236,19 @@ NODE.JS
 
 
 
+REFERÊNCIAS E LEITURAS
+======================
+
+* Introdução à programação funcional com Java http://www.defmacro.org/ramblings/fp.html
+* Vantagens de design sem estado http://stackoverflow.com/questions/844536/advantages-of-stateless-programming
+* Objetos imutáveis http://www.javapractices.com/topic/TopicAction.do?Id=29
+* Por que precisamos de objetos imutáveis http://stackoverflow.com/questions/3769607/why-do-we-need-immutable-class
+* Programando com dados imutáveis http://msdn.microsoft.com/en-us/library/hh297115(v=vs.100).aspx
+* Programação funcional com dados imutáveis http://www.slideshare.net/adorepump/functional-programming-with-immutable-data-structures
+* Idempotência http://en.wikipedia.org/wiki/Idempotence
+* Transparência referencial http://en.wikipedia.org/wiki/Referential_transparency_(computer_science)
+* Connect para nodejs http://www.senchalabs.org/connect
+* API do nodejs http://nodejs.org/api/all.html
 
 
 
