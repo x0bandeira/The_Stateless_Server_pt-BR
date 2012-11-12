@@ -239,8 +239,8 @@ NODE.JS
 
 
 
-REFERENCES AND FURTHER READING
-==============================
+REFERENCES AND FURTHER READ
+===========================
 
 * Functional Programming with Java
 http://www.defmacro.org/ramblings/fp.html
