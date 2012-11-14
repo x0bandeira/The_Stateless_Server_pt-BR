@@ -10,6 +10,9 @@ Design funcional em aplicações do mundo real
 e node.js na prática em busca de software previsível, 
 fácil de testar e direto ao ponto!
 
+* Para português [clique aqui](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/the_stateless_server.markdown)
+* For english [click here](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/the_stateless_server_en.markdown)
+
 
 Rafael Bandeira
 ===============
@@ -18,6 +21,6 @@ Apaixonado por design e tecnologia desde que a internet
 fazia barulho, hoje é Dj de escritório e desenvolvedor 
 de software da Thoughtworks.
 
-[@rafb3](http://twitter.com/rafb3)
-http://github.com/rafaelbandeira3
+* [@rafb3](http://twitter.com/rafb3)
+* http://github.com/rafaelbandeira3
 
