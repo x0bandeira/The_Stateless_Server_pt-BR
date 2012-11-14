@@ -236,6 +236,23 @@ NODE.JS
 
 
 
+
+# Example:
+
+[Criando um servidor node.js do zero](https://github.com/rafaelbandeira3/The_Stateless_Server-nodejs-example/commits/master)
+
+
+
+
+
+
+
+
+
+
+
+
+
 REFERÊNCIAS E LEITURAS
 ======================
 
@@ -249,6 +266,17 @@ REFERÊNCIAS E LEITURAS
 * Transparência referencial http://en.wikipedia.org/wiki/Referential_transparency_(computer_science)
 * Connect para nodejs http://www.senchalabs.org/connect
 * API do nodejs http://nodejs.org/api/all.html
+
+
+
+
+
+
+
+
+
+
+
 
 
 
