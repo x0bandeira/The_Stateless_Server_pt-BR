@@ -109,6 +109,15 @@ Tudo é tratado como dados, inclusive funções,
 que podem ser usadas como entrada e saída de 
 dados.
 
+      
+                    **********     /////----       %%%%%%%      
+             |\,    ##########    //////-----    %%%%&&&%%%%       |:\  
+         ----'  \   **********   +++++++------   %%%&&&&&%%%   ===='::\ 
+         ----, ,/   ##########    ++++++/////    %%%%&&&%%%%   ====,::/ 
+             |/     **********     +++++////       %%%%%%%         |:/    
+
+      
+
 *Funções de primeira classe*, é o termo usado
 para funções são tratadas como objetos da 
 mesma forma que strings e números.
@@ -116,14 +125,16 @@ mesma forma que strings e números.
 *Funções de alta ordem*, é o termo usado para
 para funções que retornam outras funções.
 
+Algoritmos como dados? Lindo.
+
       
-                    **********     /////----       %%%%%%%      
-             |\,    ##########    //////-----    %%%%&&&%%%%       |:\  
-         ----'  \   **********   +++++++------   %%%&&&&&%%%   ===='::\ 
-         ----, ,/   ##########    ++++++/////    %%%%&&&%%%%   ====,::/ 
-             |/     **********     +++++////       %%%%%%%         |:/    
-      
-      
+
+
+
+
+
+
+
 
 
 # Exemplo:
@@ -132,6 +143,13 @@ Preço de passagens de avião para
 diferentes tipos de clientes.
 
 :e [ticket_price.js](https://github.com/rafaelbandeira3/The_Stateless_Server_pt-BR/blob/master/ticket_price.js)
+
+
+
+
+
+
+
 
 
 
@@ -237,9 +255,47 @@ NODE.JS
 
 
 
-# Example:
+# Exemplo:
 
 [Criando um servidor node.js do zero](https://github.com/rafaelbandeira3/The_Stateless_Server-nodejs-example/commits/master)
+
+
+
+
+
+
+
+
+
+THE STATELESS SERVER
+====================
+
+Como *não ter* estado quando...
+* Persistência e IO são dependentes de estado
+* Cookies são estado do cliente
+* Sessões são o estado da aplicação para um usuário
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Como *ter* estado quando...
+* HTTP é inerentemente sem estado
+* Design funcional
+* REST
+ 
+
+
 
 
 
