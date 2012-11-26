@@ -5,7 +5,6 @@
 
 
 
-
 THE STATELESS SERVER
 ====================
 
@@ -184,8 +183,8 @@ different states.
 
 
 
-SEM ESTADO
-----------
+STATELESS
+---------
 
 Eliminates the concept of *behavior*. 
 Or how data behaves based on its properties.
@@ -197,7 +196,7 @@ by the compiler.
 
 
 
-# Exemplo:
+# Example:
 
 JSON API with support for different environments.
 
